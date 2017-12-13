@@ -1,3 +1,4 @@
+
 .dark-theme {
     ion-content {
       background-color: #090f2f;
@@ -11,5 +12,13 @@
     .header .toolbar-background {
       border-color: #ff0fff;
       background-color: #090f2f;
+    }
+    .button {
+        /**
+        * Change the background button of the button. 
+        * !important is needed to change all states of button also; e.g button:hover
+        * remove it and hover over the button to see the impact
+        */
+        background-color: red !important;
     }
   }
