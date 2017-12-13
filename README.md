@@ -4,10 +4,10 @@ This repo hold an example of dynamic theming in an ionic app. The technique invo
 ## Preview
 
 Light Mode: 
-![](resources/light-theme.png)
+![](screenshots/light-theme.png)
 
 Dark Mode: 
-![](resources/dark-theme.png)
+![](screenshots/dark-theme.png)
 
 
 ## Installation
